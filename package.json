@@ -30,7 +30,7 @@
     "@angular/cli": "8.3.19",
     "@angular/compiler-cli": "8.2.13",
     "@angular/language-service": "8.2.13",
-    "@ngneat/spectator": "4.10.0",
+    "@netbasal/spectator": "3.9.4",
     "@ngrx/schematics": "8.5.2",
     "@nrwl/jest": "8.2.0",
     "@nrwl/schematics": "8.2.0",
