@@ -1,0 +1,35 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+      "sourceMap": true,
+      "declaration": false,
+      "moduleResolution": "node",
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "importHelpers": true,
+      "target": "es5",
+      "module": "es2015",
+      "typeRoots": ["node_modules/@types"],
+      "lib": ["es2017", "dom"],
+      "baseUrl": ".",
+      "paths": {
+      },
+
+      "noImplicitAny": false,
+      "noFallthroughCasesInSwitch": true,
+      "noImplicitReturns": false,
+      "noImplicitThis": true,
+      "noImplicitUseStrict": true,
+      "noStrictGenericChecks": true,
+      "noUnusedLocals": false,
+      "noUnusedParameters": false,
+      "strictBindCallApply": true,
+      "strictFunctionTypes": false,
+      "strictPropertyInitialization": true,
+      "strictNullChecks": true
+    },
+    "angularCompilerOptions" : {
+      "fullTemplateTypeCheck" : false
+    },
+    "exclude": ["node_modules", "tmp"]
+  }
